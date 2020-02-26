@@ -21,3 +21,9 @@ print(3 + 5.8) # python automatically converts the int to a float ie it becomes 
 # this is known as a "mixed type expression" as it contains two different types.
 
 print(str(5) + " 5")
+
+print(int("1000"))
+
+print("$" + str(99.45) + " dollars")
+
+print(9 % 4)
