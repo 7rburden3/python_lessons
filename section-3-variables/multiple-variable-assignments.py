@@ -14,4 +14,4 @@ print(a, b, c) # will print 5 10 15
 
 d = "hello"
 
-print(a, b, c, d)
+print(a, b, c, d) # will print 5 10 15 hello
